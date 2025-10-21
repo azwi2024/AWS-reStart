@@ -1,0 +1,7 @@
+IAM
+Identity and Acces Management is a web service that helps you control acces to AWS resources.You can also control who is authenticated and authorised to access AWS resources
+IAM identities
+*AWS root account user
+The root user is created when the AWS account is created and IAM users are created by the root user or an IAM administrator for the account. All AWS have security credentials, the credentials of the account owner and allows full access to all resources in the account.
+*IAM user
+An IAM user can represent a person or an application that uses its credentials to make AWS requests, and it also has permanent long term credentials and is used to directly interect with AWS services.
