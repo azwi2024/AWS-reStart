@@ -1,6 +1,6 @@
 Security lab: Remediating an incident by using AWSB config and Lambda
 
-Lab overview and objectives
+1.Lab overview and objectives
 Learn how to use the AWS config services to monitor changes to a specific resources in AWS account, Discover how to use the service to identify
 changes that could be a security concern, such as user modifying an Amazon Elastic Compute Cloud security group.
 
