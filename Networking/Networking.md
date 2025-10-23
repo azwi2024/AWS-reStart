@@ -1,12 +1,8 @@
 AWS Networking
-It refers to the suite services and tools thhat allows users to build secure and scalable networks in the cloud.
+It refers to the suite services and tools that enables users to build secure and scalable networks in the cloud.
 
 Amazon VPC
-A virtual private cloud (VPC) is a virtual network dedicated to your AWS account. 
-It is logically isolated from other virtual networks in the AWS Cloud. 
-You can launch your AWS resources, such as Amazon EC2 instances.
-Your VPC is separated from other clouds at the network layer
-enable you to control your data and preventing it from blending with the data of other entities.
+A virtual private cloud (VPC) is a private network in the cloud
 
 Amazon VPC components
 *A subnet
@@ -22,3 +18,8 @@ A security group acts as a virtual firewall for your EC2 instances to control in
 They have inbound and outbound rules that control incoming and outgoing traffic from your instance.
 *Network ACL (Access Control List)
 A firewall that controls traffic from and to subnet, can have Alow and Deny rules and are attached to the subnet level.
+
+Summary
+I learned about AWS Networking, Amazon VPC and its components
+
+
